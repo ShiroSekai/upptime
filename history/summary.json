@@ -22,19 +22,19 @@
     "url": "https://share.moeblog.vip",
     "icon": "https://icons.duckduckgo.com/ip3/share.moeblog.vip.ico",
     "slug": "share",
-    "status": "down",
-    "uptime": "83.25%",
-    "uptimeDay": "83.25%",
-    "uptimeWeek": "83.25%",
-    "uptimeMonth": "83.25%",
-    "uptimeYear": "83.25%",
-    "time": 1373,
-    "timeDay": 1373,
-    "timeWeek": 1373,
-    "timeMonth": 1373,
-    "timeYear": 1373,
+    "status": "up",
+    "uptime": "40.19%",
+    "uptimeDay": "40.19%",
+    "uptimeWeek": "40.19%",
+    "uptimeMonth": "40.19%",
+    "uptimeYear": "40.19%",
+    "time": 1466,
+    "timeDay": 1466,
+    "timeWeek": 1466,
+    "timeMonth": 1466,
+    "timeYear": 1466,
     "dailyMinutesDown": {
-      "2022-11-16": 30
+      "2022-11-16": 226
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "53.65%",
-    "uptimeDay": "53.65%",
-    "uptimeWeek": "53.65%",
-    "uptimeMonth": "53.65%",
-    "uptimeYear": "53.65%",
+    "uptime": "13.60%",
+    "uptimeDay": "13.60%",
+    "uptimeWeek": "13.60%",
+    "uptimeMonth": "13.60%",
+    "uptimeYear": "13.60%",
     "time": 773,
     "timeDay": 773,
     "timeWeek": 773,
     "timeMonth": 773,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-11-16": 30
+      "2022-11-16": 226
     }
   }
 ]
