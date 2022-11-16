@@ -20,15 +20,15 @@ status-website:
   # cname: upptime.22-33.top
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 只是一个状态监控
+  introTitle: "**Upptime** 是一个免费且开源的运行状态监控服务。"
+  introMessage: 这是一个示例状态页面，它使用来自Shiroの [GitHub 存储库](https://github.com/ShiroSekai/upptime) 的**实时**数据。无需服务器——只需GitHub Actions,Issues和Pages。 [**整一个？**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: 站の状态
       href: /
-    - title: Blog
+    - title: 白の博客
       href: https://justmyblog.net
-    - title: Shiro
+    - title: 白の仓库
       href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
