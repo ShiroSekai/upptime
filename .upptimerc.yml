@@ -13,12 +13,14 @@ sites:
     url: https://api.moeblog.vip
   - name: CDN
     url: https://cdn.moeblog.vip
+  - name: 托管 ①
+    url: $WEB_HOSTING_1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: upptime.22-33.top
-  baseUrl: /upptime
+  cname: status.22-33.top
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 只是一个状态监控
   introTitle: "**Upptime** 是一个免费且开源的运行状态监控服务。"
