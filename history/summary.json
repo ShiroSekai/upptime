@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.moeblog.vip.ico",
     "slug": "share",
     "status": "up",
-    "uptime": "90.23%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "91.19%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "90.23%",
+    "uptime": "90.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "90.38%",
     "time": 1996,
     "timeDay": 1434,
     "timeWeek": 2352,
     "timeMonth": 1996,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2022-11-23": 8,
       "2022-11-22": 881,
       "2022-11-16": 226
     }
@@ -45,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.moeblog.vip.ico",
     "slug": "img",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2339,
     "timeDay": 2162,
     "timeWeek": 2316,
     "timeMonth": 2339,
     "timeYear": 2339,
-    "dailyMinutesDown": {
-      "2022-11-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -65,19 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.moeblog.vip.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1425,
     "timeDay": 1487,
     "timeWeek": 1454,
     "timeMonth": 1425,
     "timeYear": 1425,
-    "dailyMinutesDown": {
-      "2022-11-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -103,18 +98,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "90.00%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "90.00%",
+    "uptime": "90.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "90.28%",
     "time": 942,
     "timeDay": 957,
     "timeWeek": 957,
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-11-23": 22,
       "2022-11-22": 881,
       "2022-11-16": 226
     }
