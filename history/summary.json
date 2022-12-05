@@ -24,18 +24,19 @@
     "url": "https://share.moeblog.vip",
     "icon": "https://icons.duckduckgo.com/ip3/share.moeblog.vip.ico",
     "slug": "share",
-    "status": "up",
-    "uptime": "90.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.86%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "90.00%",
+    "status": "down",
+    "uptime": "90.10%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "85.10%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "90.10%",
     "time": 1804,
     "timeDay": 1575,
     "timeWeek": 1647,
     "timeMonth": 1804,
     "timeYear": 1804,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-12-03": 535,
       "2022-12-02": 172,
       "2022-11-28": 921,
@@ -48,9 +49,9 @@
     "url": "https://img.moeblog.vip",
     "icon": "https://icons.duckduckgo.com/ip3/img.moeblog.vip.ico",
     "slug": "img",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,16 +60,18 @@
     "timeWeek": 2689,
     "timeMonth": 2665,
     "timeYear": 2665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.moeblog.vip",
     "icon": "https://icons.duckduckgo.com/ip3/api.moeblog.vip.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,16 +80,18 @@
     "timeWeek": 1583,
     "timeMonth": 1501,
     "timeYear": 1501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   },
   {
     "name": "CDN",
     "url": "https://cdn.moeblog.vip",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.moeblog.vip.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +100,9 @@
     "timeWeek": 1354,
     "timeMonth": 1264,
     "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   },
   {
     "name": "托管 ①",
@@ -103,17 +110,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
     "status": "up",
-    "uptime": "89.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.26%",
-    "uptimeMonth": "89.73%",
-    "uptimeYear": "89.73%",
+    "uptime": "89.84%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "84.51%",
+    "uptimeMonth": "89.84%",
+    "uptimeYear": "89.84%",
     "time": 1016,
     "timeDay": 986,
     "timeWeek": 1012,
     "timeMonth": 1016,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2022-12-05": 1,
       "2022-12-03": 535,
       "2022-12-02": 172,
       "2022-12-01": 60,
